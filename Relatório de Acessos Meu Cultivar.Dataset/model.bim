@@ -1532,7 +1532,7 @@
             "lineageTag": "5483a330-b700-41e1-ad05-16dfb6edc7af"
           },
           {
-            "name": "testeVersionamento",
+            "name": "matheus_teste",
             "expression": [
               "",
               "VAR DataAtual = TODAY()",
@@ -1564,10 +1564,12 @@
               "            ),",
               "            0",
               "        )",
-              "    )"
+              "    )",
+              "",
+              ""
             ],
             "formatString": "0",
-            "lineageTag": "f71d072d-2f9d-4760-add3-2d4f3a66a9f8"
+            "lineageTag": "cea38e35-7af9-40d9-ade4-33544350c998"
           }
         ],
         "partitions": [
